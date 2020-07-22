@@ -1,3 +1,4 @@
 hi..we are learning git.
 in staging area..
 in staging area..1
+Again i want to make changes..
